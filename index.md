@@ -6,7 +6,7 @@ description: >-
   en diversas etapas del ciclo de desarrollo de aplicaciones.
 image: /assets/images/main.avif
 main_content: >
-  # space of chaos and reflections...
+  # space of chaos... Daily Reflections
 
 
   **Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
