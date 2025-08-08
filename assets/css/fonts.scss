@@ -13,8 +13,15 @@
   font-display: swap;
 }
 
+@font-face {
+  font-family: "Raleway";
+  src: url({{ "/assets/fonts/Raleway-Regular.ttf" | relative_url }});
+  font-display: swap;
+}
+
+
 @layer base {
   html {
-    font-family: "Gloria", system-ui, sans-serif;
+    font-family: "Raleway", system-ui, sans-serif;
   }
 }
